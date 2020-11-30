@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itemDatabase>
+    <items>
+        <item>
+
+        </item>
+    </items>
+
+    <equipments>
+        <equipment 
+            itemName = "Sword of Heroes"
+            itemValue = "100"
+            itemDescription = "The sword wielded by famous heros"
+            basePhysical = "130"
+            baseMagical = "110"
+            strengthScaling = "0.4"
+            dexterityScaling = "0.2"
+        />
+    </equipments>
+</itemDatabase>
