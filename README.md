@@ -1,2 +1,3 @@
-# Unity-Game
-My first game in Unity
+# Essence
+
+Creating a game like Dark Souls using C#
