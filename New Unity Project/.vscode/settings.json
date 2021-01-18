@@ -1,4 +1,4 @@
-﻿{
+{
     "files.exclude":
     {
         "**/.DS_Store":true,
@@ -52,5 +52,17 @@
         "ProjectSettings/":true,
         "temp/":true,
         "Temp/":true
-    }
+    },
+    "csharp.referencesCodeLens.enabled": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.block": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.function": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.lambda": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.namespace": "newLine",
+    "C_Cpp.vcFormat.newLine.beforeOpenBrace.type": "newLine"
 }
